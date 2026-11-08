@@ -1,0 +1,6 @@
+{
+  "name": "MYRA",
+  "description": "Intelligent voice assistant for Android with calls, WhatsApp, app actions, screen context reader, multi-model AI & voice orb styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
